@@ -51,12 +51,7 @@
             }
             .bordeblanco{
                 border:2px solid white;
-            }
-            .borde_sn{
-                border:20px white;
-                border-collapse: collapse;
-            }
-            
+            }            
            
             /* todas las celdas del documento obtienen este estilo*/
             td{ 
