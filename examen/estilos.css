@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(24,187,159);
+    font-size: 24px;
+}
+.div1{
+    height: 90%;
+}
+.tabla1{
+    width: 100%;
+    background-color:rgb(46,204,113) ;
+}
+.tabla2{
+    width: 100%;
+    height: 85vh;
+    background-color: tomato;
+}
+.tabla3{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(155,89,182);
+    color: white;
+}
+.borde_blanco{
+    border: 2px solid white;
+}
+
+.texto_centrado1{
+    text-align: center;
+}
+.fila20{
+    width: 20%;
+}
+.fila30{
+    width: 30%;
+}
